@@ -1,0 +1,10 @@
+These Wolfram Mathematica codes were used to calculate the effects of orientations of dipoles in 
+crystals when excited with Gaussian laser beams and signal detected at various angles. The 
+effect of using a microscope with finine numerical aperture is explored. Also, the difference in
+the polarization dependece of the collected signal is calculated for both electric and magnetic 
+dipoles.
+
+See Chapter 5 of 
+Dziashko, Yury, "Optical Spectroscopy of Xenon-Related Defects in Diamond" (2014). Dissertations and Theses
+available at 
+http://academicworks.cuny.edu/gc_etds/483/

@@ -1,0 +1,19 @@
+This set of programs is used to calculate the effects of so called inhomogeneous broadening -- increase of the 
+observed linewidth in the photo-luminescence spectra when collecting the signal from a large number of 
+emitters.
+
+C-files contain the calculations in the linear approximation, when the spectral shift is linearly proportional 
+to the perturbation. 
+
+Python code MCMCTEST.PY and MCMCTEST3.PY implements Markov Chain Monte-Carlo method for calculating 
+the spectral shift using the approximation of Nearest Neighbor, when only one or two "perturbing defects" land 
+near the emitter.
+
+EXPERIMENTAL.PY is a python code used to lauch several jobs on a system with multiple CPU's.
+
+Text files PARAMETERS.TXT provides examples of the parameters that can be fed to BROADLIN family of programs.
+
+See Chapter 3 of 
+Dziashko, Yury, "Optical Spectroscopy of Xenon-Related Defects in Diamond" (2014). Dissertations and Theses
+available at 
+http://academicworks.cuny.edu/gc_etds/483/

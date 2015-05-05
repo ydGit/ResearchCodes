@@ -1,0 +1,9 @@
+This program numerically evaluates  so called "correction factor" which represents the 
+difference between two statistics: Poissonian and Compound Poissonian. It is useful when 
+studying the signal from a large number of emitters which are excited with a laser beam 
+having Gaussian intensity profile in its cross-section.
+
+See Chapter 2 of 
+Dziashko, Yury, "Optical Spectroscopy of Xenon-Related Defects in Diamond" (2014). Dissertations and Theses
+available at 
+http://academicworks.cuny.edu/gc_etds/483/

@@ -1,0 +1,14 @@
+The MATLAB *.m files were written with the goal to create a user-friendly Graphical Interface to the calculations 
+a model from the paper
+V. Hizhynakov J. Phys. C: Solid State Phys. 20 (1987) 6073 - 6087
+
+It describes the interaction of a two-level system placed within a crystal with a lattice vibrations. 
+GUIExample.png demonstrates the final result.
+
+Python files provide basically the same functionality and were written earlier, when the speed of the 
+numerical calculations was not an issue.
+
+See Chapter 4 of 
+Dziashko, Yury, "Optical Spectroscopy of Xenon-Related Defects in Diamond" (2014). Dissertations and Theses
+available at 
+http://academicworks.cuny.edu/gc_etds/483/
