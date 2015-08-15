@@ -1,0 +1,5 @@
+This Octave/Matlab script evaluates the dispersion curve for the optical plasmons propagating in the 
+topological insulator surface. The topological insulator is surrounded by two dielectric 
+media with dielectric constants epsilonT and epsilonB. The calculations are based on the 
+formula given in the paper T. Stauber and G. Gomez-Santos and L. Brey "Spin-charge 
+separation of plasmonic excitations in thin film topological insulators" Physical Review B 88, 205427 (2013)
